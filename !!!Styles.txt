@@ -1,0 +1,3 @@
+Document Title
+Default Style, Times New Roman, 12, left aligned
+Preformatted Text, DejaVu Sans, 26, centered

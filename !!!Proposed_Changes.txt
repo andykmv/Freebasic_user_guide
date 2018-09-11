@@ -1,0 +1,46 @@
+Proposed Changes
+==========================================
+pp1 - none
+pp2 - para 2 [once changes to accommodate freebasic 1.05.0)
+pp3 - none
+pp4 - last para, and edited using Libre Office 6.0.0.3 (website)
+pp5
+"FreeBasic is a cross-platform compiler, however this book concentrates on using FreeBasic under the 32-bit Microsoft Windows (TM) and..."
+change:
+"FreeBasic is a cross-platform compiler, however this book concentrates on using FreeBasic under the 32-bit/64-bit Microsoft Windows (TM) and..."
+
+"All of the source code..."
+change: 
+[store the files on freebasic.net maybe, where the clark productions website is located ?]
+pp6 - pp13
+
+CHAPTER_1
+pp14 
+- update para 1
+- Integer's size
+pp15
+- suggest reverse the order of "Create.." as a begineer, mostly you just want to compile an exe (console) followed by simple gui after some experience
+pp17 - re symbols...32/64 and size
+
+CHAPTER_2
+para2 "Table 3.1 lists all the numeric data types.." should be table 2.1.
+update table 2.1 data types
+udate table 2.2 data type suffixes
+
+pp23 - para 1 referes to tBLW 3.1 LISTS ALL THE def STATEMENTS - IT SHOULD BE TABLE 2.3
+PP24 USING DIF NU FORMATS - REFERS TO TABLE 3.4 SHOULD BE 2.4
+
+CHAPTER_3
+pp28 etc etc etc - change the font size of the "Analysis:" word (increase)
+pp30 Analysis: refers to listing 4.2 - prob shld be 3.2
+pp30 num data convs refs to table 4.1 shld be table 3.1
+pp33 2nd last para also refers to table 4.1 shld be 3.1
+pp35 i noticed that code is in a fixed width font "replacing x" wherease in the same paragraph Cint is normal text style rather than code style.  if the aforementioned approach was put right thru doco all code and variable refs woul dbe code style rather than parapgraph style making it easier to identify code.
+pp36 - refs table 4.2 shld be 3.2
+
+CHAPTER_4
+pps=x CAUTION para. font style/size needs correction
+
+
+
+
